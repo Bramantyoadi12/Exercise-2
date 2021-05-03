@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCancel" type="id" />
+    <item name="btnRegistrasi" type="id" />
+    <item name="tvNamaKontak" type="id" />
+    <item name="tvNomorTelepon" type="id" />
+</resources>
